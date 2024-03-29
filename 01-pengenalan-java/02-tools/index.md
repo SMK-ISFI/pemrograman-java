@@ -68,7 +68,7 @@ Namun demikian, untuk mengikuti kelas ini, penggunaan Intellij dan OpenJDK tidak
 ![gambar 3](img/03.png)
 2. Ikuti langkah-langkah di bawah ini untuk proses instalasinya.
 3. Jalankan *installer* yang sudah Anda unduh:
-![gambar](img/04.png)
+    ![gambar](img/04.png)
 4. Pilihlah lokasi di mana Anda hendak menyimpan aplikasi tersebut.
 ![gambar](img/05.png)
 5. Centang pilihan *launcher* sesuai dengan versi OS yang Anda gunakan (32 atau 64) bit. Perintah tersebut membuat *launcher* nampak di desktop. Anda pun bisa dengan mudah mengakses Intellij.
@@ -76,9 +76,9 @@ Namun demikian, untuk mengikuti kelas ini, penggunaan Intellij dan OpenJDK tidak
 6. Untuk start menu biarkan pilihan *default*-nya tetap *intact*.
 ![gambar](img/07.png)
 7. Tunggu sampai prosesnya selesai.
-![gambar](img/08.png)
+    ![gambar](img/08.png)
 8. Saat selesai, klik *Finish*.
-![gambar](img/09.png)
+    ![gambar](img/09.png)
 
 Untuk petunjuk pemakaian yang resmi dari Intellij, silakan lihat tautan ini [https://www.jetbrains.com/help/idea/meet-intellij-idea.html](https://www.jetbrains.com/help/idea/meet-intellij-idea.html).
 
@@ -91,7 +91,7 @@ Untuk glot.io, silakan ikuti cara-cara berikut:
 1. Pertama bukalah halaman [https://glot.io/](https://glot.io/).
 ![gambar](img/10.jpeg)
 2. Selanjutnya, pilih bahasa Java karena Anda akan mempelajari bahasa ini.
-![gambar](img/11.png)
+    ![gambar](img/11.png)
 3. Selanjutnya, Anda bisa ***ubah nama proyek*** dan ***nama berkas*** yang Anda buat dan tentunya Anda bisa memulai menuliskan baris kode di dalamnya.
 ![gambar](img/12.png)
 Terdapat beberapa tombol pada gambar di atas, di antaranya:
